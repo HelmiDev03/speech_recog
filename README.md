@@ -11,6 +11,7 @@ SQLAlchemy==1.1.11
  2. Run *train.py*
  3. Run *run.py*
  4. Demo will be live at http://localhost:5000/
+ 5.Live : live  : https://helmidev03.github.io/speech_recog/
  
  ## Git push cmd- for reference
  ```java
@@ -33,4 +34,3 @@ common git error:
 use this:
 git pull --rebase origin main
 git push origin main
-live  : https://helmidev03.github.io/speech_recog/
